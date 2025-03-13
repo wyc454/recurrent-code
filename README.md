@@ -19,6 +19,6 @@
 ## Usage
 - Run the main program: `python main.py`.
 
-# (- 将你的训练图像文件放入 data/train/images/ 文件夹中。如果训练数据还包括标签（例如，用于监督学习的标签图像）)#
-# (- 则将标签文件放入 data/train/labels/ 文件夹中。)
+# (- 将你的训练图像文件放入 data/train_wrapped 文件夹中。如果训练数据还包括标签（例如，用于监督学习的标签图像）)#
+# (- 则将标签文件放入 data/train_absolute 文件夹中。)
 # (- 确保文件名能够正确匹配，以便在加载数据时能够找到对应的图像和标签)
