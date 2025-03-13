@@ -41,9 +41,9 @@ def generate_branch_cut_label(reference_unwrapped_phase, residue_image):
 
 
 # 配置路径
-TRAIN_DATA_DIR = r"E:\pycharm\py.projects\csdn\data\InSAR-DLPU"  # 请替换为实际数据路径
-train_wrapped_dir = os.path.join(TRAIN_DATA_DIR, "train_wrapped_png")
-train_absolute_dir = os.path.join(TRAIN_DATA_DIR, "train_absolute_png")
+TRAIN_DATA_DIR = r"，，，，，"  # 请替换为实际数据路径
+train_wrapped_dir = os.path.join(TRAIN_DATA_DIR, "。。。。。")
+train_absolute_dir = os.path.join(TRAIN_DATA_DIR, "。。。。。")
 
 # 创建输出目录
 residue_dir = os.path.join(TRAIN_DATA_DIR, "residue_images")
